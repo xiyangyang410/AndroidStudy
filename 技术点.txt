@@ -1,0 +1,18 @@
+﻿[JIURL (START)]
+GitHub 使用
+
+java 开发环境搭建
+java 调试
+java 各种库，api的使用
+
+android 开发环境搭建
+android 调试
+android 基本内容
+android 常用界面
+android NDK
+android 系统源码研究
+
+消息机制，线程间通信
+
+[JIURL (END)]
+
