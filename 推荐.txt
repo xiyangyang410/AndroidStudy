@@ -5,6 +5,9 @@ http://liam0205.me/attachment/Git/progit.zh.pdf
 《Java JDK 6学习笔记》 java 入门与基础
 http://pan.baidu.com/wap/link?uk=3660540499&shareid=309951&third=0
 
+Android 开发主要内容
+sdk/docs/guide/components/index.html
+
 Android SDK 附带的示例代码
 位置例如：Android\sdk\samples\android-15\ApiDemos
 
