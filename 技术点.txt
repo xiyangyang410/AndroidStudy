@@ -14,11 +14,23 @@ android 系统源码研究
 
 消息机制，线程间通信
 
+Activity
+Service
+BroadcastReceiver
+ContentProvider
+
+Intent
+
 拍照，录像
 录音
 位置，GPS
 传感器，陀螺仪
 蓝牙，Wi-Fi P2P
+android.speech
+
+电话
+短信
+联系人
 
 [JIURL (END)]
 
